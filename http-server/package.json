@@ -1,15 +1,11 @@
 {
   "name": "http-server",
   "version": "1.0.0",
-  "description": "My http server application",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "Modini vivek kumar",
-  "license": "ISC",
-  "dependencies": {
-    "minimist": "^1.2.8"
-  }
+  "author": "Kusuma",
+  "license": "ISC"
 }
